@@ -8,7 +8,7 @@ public class Main {
 
         ReadFile rf = new ReadFile();
 
-        String o = rf.ReadFile("kek.txt");
+        String o = rf.ReadFile("FantasticTextDocument.txt");
         System.out.println(o);
 
 
